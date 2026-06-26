@@ -2,7 +2,7 @@
 
 
 FastSAM-x.pt是识别粒度和孔洞的模型，需要单独下载并替换掉文件夹里自带的FastSAM-x.pt
-<img width="933" height="401" alt="image" src="https://github.com/user-attachments/assets/924c4fc7-3a86-40aa-b0ca-a753298c595a" />
+<img width="933" height="401" alt="image" src="https://github.com/user-attachments/assets/10c39f8c-0f62-4ced-89b4-f595d15ec624" />
 
 
 系统有传统和深度学习两种识别算法。
